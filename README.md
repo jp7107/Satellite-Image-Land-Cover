@@ -1,5 +1,4 @@
 # Land Cover Classification of Satellite Images
-**Aidan O'Keefe**
 
 ## Overview
 A deep learning (neural network) land cover classification project using RGB satellite images (remote sensing) across 10 classes. This land cover classifier could be used by nature conservancies to monitor deforestation/land development using satellite images to observe if land starts changing from one class (forest, vegetation,etc) to another class (industrial, crop, etc). From a Baseline Model with a performance of 74.1% Test accuracy, I iterated until reaching my final model, a Fine Tuned VGG16 Model with additonal Dense and Dropout Layers with a 91.46% Test accuracy. 
